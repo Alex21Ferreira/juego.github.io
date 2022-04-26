@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background-color: #811515;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Sansita', sans-serif;
+}
+
+h2 {
+    color: #FFFF;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 25px;
+    font-family: 'Sansita', sans-serif;
+}
+
+h3 {
+    color: #FFFF;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 25px;
+    font-family: 'Sansita', sans-serif;
+}
+
+h4 {
+    display: inline;
+    color: #FFFF;
+    text-align: right;
+    font-family: 'Sansita', sans-serif;
+    font-size: 15px;
+}
